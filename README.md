@@ -1,4 +1,4 @@
 # helloworld
 My first 
-Potachev Vitaliy , And I born in Russia,Arzamas
+Potachev Vitaliy , And I was born in Russia,Arzamas
 
